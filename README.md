@@ -53,8 +53,8 @@ Drop any file in. Get back its **true format**, **header details**, **entropy**,
 
 ```bash
 # Clone
-git clone https://github.com/Rikixz/magic-analyzer.git
-cd magic-analyzer
+git clone https://github.com/blaxkmiradev/-magic_analyzer.git
+cd -magic_analyzer
 
 # Run — no pip install needed
 python magic_analyzer.py <file>
@@ -149,7 +149,7 @@ python magic_analyzer.py binary.bin --json
 
 ## License
 
-MIT © [Rikixz](https://github.com/Rikixz)
+MIT © [Rikixz](https://github.com/blaxkmiradev)
 
 ---
 
